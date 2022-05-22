@@ -1,0 +1,1 @@
+{"name":"Local: Array_selectionSort","url":"s:\\Data Structure\\Array\\Array_selectionSort.cpp","tests":[{"id":1632043083562,"input":"6\n67 89 12 45 32 43","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"s:\\Data Structure\\Array\\Array_selectionSort.cpp","group":"local","local":true}
